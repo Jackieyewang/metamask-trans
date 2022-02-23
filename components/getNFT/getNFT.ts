@@ -57,3 +57,4 @@ export async function getAllOwnedNFTs(address: string, year?: string) {
 	}
 	return dataList;
 }
+

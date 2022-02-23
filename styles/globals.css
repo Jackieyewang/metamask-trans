@@ -15,3 +15,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.indexContent {
+  height: 95vh;
+  background-color: aquamarine;
+}
+
+.indexSide {
+  width: 50vw;
+}
